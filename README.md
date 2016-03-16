@@ -1,6 +1,6 @@
 # A-Frame Example
 
-Example for creating WebVR scenes using A-Frame.
+Simple panorame example
 
 
 ## Getting Started
@@ -19,6 +19,6 @@ Example for creating WebVR scenes using A-Frame.
      /view3.html
      
      
- ## Panoramic Images
+ ### Panoramic Images
  
  [flicker](https://www.flickr.com/search/?text=equirectangular&license=4%2C5%2C9%2C10)
