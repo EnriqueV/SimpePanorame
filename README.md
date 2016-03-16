@@ -19,6 +19,6 @@ Simple panorame example
      /view3.html
      
      
- ### Panoramic Images
+ Panoramic Images:
  
  [flicker](https://www.flickr.com/search/?text=equirectangular&license=4%2C5%2C9%2C10)
